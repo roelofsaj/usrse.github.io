@@ -221,7 +221,8 @@
         "email": "guilherme@castelao.net",
         "orcid": "0000-0002-6765-0708",
         "affiliation": "University of California San Diego Scripps Institution of Oceanography",
-        "blog": "https://github.com/castelao"
+        "blog": "https://github.com/castelao",
+        "bio": "PhD in Physical Oceanography and offshore solo sailor."
     },
     "roelofsaj": {
         "name": "Abbey Roelofs",
